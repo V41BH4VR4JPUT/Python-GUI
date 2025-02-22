@@ -1,4 +1,4 @@
-from PySide6.QtWidgets import QPushButton , QApplication , QMainWindow
+from PySide6.QtWidgets import QPushButton , QApplication , QMainWindow # type: ignore
 import sys
 
 class Button(QMainWindow):
